@@ -1,6 +1,6 @@
 # 👋 Xin chào, mình là Cao Xuân Tiến  
+### 💻 Học sinh lớp 10 | Web & AI Enthusiast | Minecraft Addon Developer  
 
-💻 Học sinh lớp 10 | Đam mê Lập trình Web, Minecraft Addon & AI  
 🌱 Hiện tại đang học C++, Python và bảo mật mạng  
 ✨ Mục tiêu: trở thành lập trình viên fullstack trong tương lai  
 
@@ -24,11 +24,12 @@
 ---
 
 ## 📫 Liên hệ với mình
-- 📧 Email: **youremail@example.com**  
-- 💼 LinkedIn: [linkedin.com/in/tienkj](https://linkedin.com)  
-- 🎮 Discord: `Tienkj#1234`  
+- 📧 Email: **tiendathmfa@gmail.com**  
+- 💼 Facebook: [facebook.com/haugaicucmup](https://facebook.com/haugaicucmup)  
+- 🎮 ![Discord](https://img.shields.io/badge/Discord-Tienkj-5865F2?logo=discord&logoColor=white)  
 
 ---
 
 ## ✨ Fun fact
-> "Code thì có bug, nhưng tâm hồn thì luôn **debug bằng trà đá vỉa hè** 🍵😆"
+> "Code thì có bug, nhưng tâm hồn thì luôn **debug bằng trà đá vỉa hè** 🍵😆"  
+> Luôn tò mò khám phá công nghệ mới 🔍
