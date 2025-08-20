@@ -31,10 +31,11 @@
 ## 📫 Liên hệ với mình
 - 📧 Email: **tiendathmfa@gmail.com**  
 - 💼 Facebook: [facebook.com/haugaicucmup](https://facebook.com/haugaicucmup)  
-- 🎮 ![Discord](https://img.shields.io/badge/Discord-Tienkj-5865F2?logo=discord&logoColor=white)  
+- 🎮 [![Discord](https://img.shields.io/badge/Discord-Tienkj-5865F2?logo=discord&logoColor=white)](https://discord.com/users/Tienkj)
 
 ---
 
 ## ✨ Fun fact
 > "Code thì có bug, nhưng tâm hồn thì luôn **debug bằng trà đá vỉa hè** 🍵😆"  
 > Luôn tò mò khám phá công nghệ mới 🔍
+> Luôn ngại học 😊😊
