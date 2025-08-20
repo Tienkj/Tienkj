@@ -3,7 +3,7 @@
 
 🌱 Hiện tại đang học C++, Python và bảo mật mạng  
 ✨ Mục tiêu: trở thành lập trình viên fullstack trong tương lai  
-
+🤯 Bí mật nhỏ: mình toàn dùng AI để code
 ---
 
 ## 🚀 Tech Stack
