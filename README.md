@@ -4,6 +4,7 @@
 🌱 Hiện tại đang học C++, Python và bảo mật mạng  
 ✨ Mục tiêu: trở thành lập trình viên fullstack trong tương lai  
 🤯 Bí mật nhỏ: mình toàn dùng AI để code
+🔇 Không thích nói nhiều
 ---
 
 ## 🚀 Tech Stack
@@ -25,7 +26,6 @@
 ![Xuân Tiến's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tienkj&theme=tokyo-night&cache_seconds=1800)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-
 ---
 
 ## 📫 Liên hệ với mình
@@ -40,12 +40,11 @@
 > Luôn tò mò khám phá công nghệ mới 🔍  
 > "Luôn ngại học 😊😊"
 
+---
+
 ## 👍 Thank you!
 ![Thank You](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
 
 [![Tải thử video này i hh](https://raw.githubusercontent.com/Tienkj/Tienkjaz/main/thumb.jpg)](https://github.com/Tienkj/Tienkjaz/raw/refs/heads/main/jumpscare.mp4)
 
 ![Ảnh đẹp tự chụp](https://github.com/Tienkj/Tienkj/blob/4fdb956c686beb1c957d47ff0b8f106b8bd68e58/IMG_20250705_091804~2.jpg)
-
-
-
