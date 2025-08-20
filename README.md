@@ -41,5 +41,7 @@
 > Luôn ngại học 😊😊
 ## 👍 Thank you!
 ![Thank You](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
-![Video Demo](https://github.com/Tienkj/Tienkjaz/raw/refs/heads/main/jumpscare.mp4)
+![Xem video](https://github.com/Tienkj/Tienkjaz/raw/refs/heads/main/jumpscare.mp4)
+
+
 
