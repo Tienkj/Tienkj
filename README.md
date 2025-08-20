@@ -17,12 +17,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Xuân Tiến's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tienkj&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tienkj&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tienkj&theme=tokyonight)  
+![Xuân Tiến's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tienkj&show_icons=true&theme=tokyonight&cache_seconds=1800)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tienkj&layout=compact&theme=tokyonight&cache_seconds=1800)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tienkj&theme=tokyonight&cache_seconds=60)  
 ![Profile Views](https://komarev.com/ghpvc/?username=Tienkj&label=Profile%20views&color=0e75b6&style=flat)  
 ![trophy](https://github-profile-trophy.vercel.app/?username=Tienkj&theme=tokyonight&margin-w=15&margin-h=15)  
-![Xuân Tiến's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tienkj&theme=tokyo-night)  
+![Xuân Tiến's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tienkj&theme=tokyo-night&cache_seconds=1800)  
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 
