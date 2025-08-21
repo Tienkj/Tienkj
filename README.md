@@ -32,7 +32,7 @@
 ## 📫 Liên hệ với mình
 - 📧 Email: **tiendathmfa@gmail.com**  
 - 💼 Facebook: [facebook.com/haugaicucmup](https://facebook.com/haugaicucmup)  
-- 🎮 [![Discord](https://img.shields.io/badge/Discord-Tienkj-5865F2?logo=discord&logoColor=white)](https://discord.com/users/Tienkj)
+- 🎮 [![Discord](https://img.shields.io/badge/Discord-Tienkj-5865F2?logo=discord&logoColor=white)](https://discord.com/users/tienkj)
 
 ---
 
