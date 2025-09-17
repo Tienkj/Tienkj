@@ -42,7 +42,6 @@
 > "Code thì có bug, nhưng tâm hồn thì luôn **debug bằng trà đá vỉa hè** 🍵😆"  
 > Luôn tò mò khám phá công nghệ mới 🔍  
 > "Luôn ngại học 😊😊"
-> ::
 
 ---
 
