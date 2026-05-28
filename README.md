@@ -1,11 +1,11 @@
 # 👋 Xin chào, mình là Cao Xuân Tiến  
-### 💻 Học sinh lớp 10 | Web & AI Enthusiast | Minecraft Addon Developer  
+### 💻 Học sinh | Web & AI Enthusiast | Minecraft Addon Developer  
 
-🌱 Hiện tại đang học C++, Python và bảo mật mạng  
-✨ Mục tiêu: trở thành lập trình viên fullstack trong tương lai  
-🤯 Bí mật nhỏ: mình toàn dùng AI để code
+🌱   
+✨ Mục tiêu:   
+🤯 Bí mật nhỏ: 
 
-🏫 Mới vào lớp 10 
+🏫 
 
 🔇 Không thích nói nhiều
 ---
@@ -39,9 +39,9 @@
 ---
 
 ## ✨ Fun fact
-> "Code thì có bug, nhưng tâm hồn thì luôn **debug bằng trà đá vỉa hè** 🍵😆"  
+> "Code thì có bug"  
 > Luôn tò mò khám phá công nghệ mới 🔍  
-> "Luôn ngại học 😊😊"
+
 
 ---
 
